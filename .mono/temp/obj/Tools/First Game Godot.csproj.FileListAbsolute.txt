@@ -1,0 +1,6 @@
+C:\Users\jcost\Documents\MEGAsync\2 DAM\Programació\FirstGameGodot\.mono\temp\bin\Tools\First Game Godot.dll
+C:\Users\jcost\Documents\MEGAsync\2 DAM\Programació\FirstGameGodot\.mono\temp\bin\Tools\First Game Godot.pdb
+C:\Users\jcost\Documents\MEGAsync\2 DAM\Programació\FirstGameGodot\.mono\temp\obj\Tools\First Game Godot.csprojAssemblyReference.cache
+C:\Users\jcost\Documents\MEGAsync\2 DAM\Programació\FirstGameGodot\.mono\temp\obj\Tools\First Game Godot.csproj.CoreCompileInputs.cache
+C:\Users\jcost\Documents\MEGAsync\2 DAM\Programació\FirstGameGodot\.mono\temp\obj\Tools\First Game Godot.dll
+C:\Users\jcost\Documents\MEGAsync\2 DAM\Programació\FirstGameGodot\.mono\temp\obj\Tools\First Game Godot.pdb
