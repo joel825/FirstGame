@@ -76,6 +76,7 @@ public class Player : Area2D
 	}
 	public void OnPlayerBodyEntered(PhysicsBody2D body)
 	{
+		GD.Print("AAA");
 		Hide(); // Player disappears after being hit.
 		EmitSignal("Hit");
 		GetNode<CollisionShape2D>("CollisionShape2D").SetDeferred("disabled", true);
@@ -89,5 +90,6 @@ public class Player : Area2D
 	}
 
 }
+
 
 
